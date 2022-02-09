@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h3 align="center">Stats:</h3>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousramashkoor&show_icons=true&locale=en&layout=compact&&theme=dark&date_format=M%20j%5B%2C%20Y%5D)" alt="yousramashkoor" /></p>
+
+
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousramashkoor&show_icons=true&locale=en&&theme=dark&date_format=M%20j%5B%2C%20Y%5D)" alt="yousramashkoor" /></p>
+
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YousraMashkoor&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="yousramashkoor" /></p>
+
 <!--
 **YousraMashkoor/yousramashkoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
