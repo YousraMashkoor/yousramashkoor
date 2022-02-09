@@ -2,7 +2,7 @@
 
 
 <h3 align="center">I'm a Software Engineer</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousramashkoor&theme=onedark&margin-w=30" alt="yousramashkoor" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousramashkoor&theme=onedark&margin-w=50&column=4" alt="yousramashkoor" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alizahidraja&label=Profile%20views&color=0e75b6&style=flat" alt="yousramashkoor" /> </p>
 
