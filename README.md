@@ -15,7 +15,9 @@
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YousraMashkoor&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="yousramashkoor" /></p>
 
 
-<p  align="center"><img align="center" src="https://media1.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"></p>
+
+<p  align="center"><img align="center" src="https://github.com/YousraMashkoor/yousramashkoor/blob/main/images/this-is-awesome.jpg"></p>
+<!-- <p  align="center"><img align="center" src="https://media1.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"></p> -->
 
 <!--
 **YousraMashkoor/yousramashkoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
