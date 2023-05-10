@@ -8,6 +8,10 @@
 
 <h3 align="center">I'm a Software Engineer</h3>
 <p align="center">⚡ Ranked top 110 Github contributors from Pakistan https://commits.top/pakistan.html</p>
+<p align="center">⚡ 2nd in Pakistan and Top 1% Globally at Advent of Code 2021</p>
+
+<!-- <p  align="center"><img align="center" src="https://media1.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"></p> -->
+
 <p align="center">⚡ Also find me here https://github.com/Yousra-bboxx</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousramashkoor&theme=onedark&margin-w=50&column=4" alt="yousramashkoor" /></a> </p>
